@@ -39,6 +39,10 @@
 
 ![SystemImage](./images/system.png)
 
+## ハードウェア概要
+
+![HardwarOverviewImage](./images/Hardware_overview.png)
+
 ## その他
 ### プレゼンテーション資料
 
